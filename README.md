@@ -10,7 +10,7 @@
    3. Điểm từng tiêu chí, tổng điểm & cách sửa.
 # Bước 2:
 ```
-1. Context: Hãy đóng vai một chuyên gia đào tạo cửa hàng, gia sư Feynman & giám khảo Rubric.
+1. Context: Hãy đóng vai một chuyên gia đào tạo cửa hàng, gia sư Feynman và giám khảo Rubric.
 2. Request: Kiểm tra dữ liệu, đánh giá Feynman và chấm Rubric cho nhân viên.
 3. Explanation:
 - Thiếu thong_tin hoặc bai_giai_thich: dừng chấm, in ra "thiếu dữ liệu", không tự bịa ra.
