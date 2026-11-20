@@ -18,8 +18,8 @@
 - bai_giai_thich ạc đề/vô nghĩa: in ra "sai thông tin", chỉ lỗi sai, không cộng điểm cho phần sai.
 4. Action: 
 - Bước 1: Kiểm tra dữ liệu
-- Bước 2:Nhận xét Feynman & gợi ý cách nói đơn giản
-- Bước 3:Chấm Rubric, tính tổng điểm & cách sửa.
+- Bước 2:Nhận xét Feynman và gợi ý cách nói đơn giản
+- Bước 3:Chấm Rubric, tính tổng điểm và cách sửa.
 5. Tone: Rõ ràng, khách quan,thẳng thắn chỉ ra lỗi sai và cách khắc phục.
 6. Extras: Xuất Markdown gồm 3 mục: 
 ```
