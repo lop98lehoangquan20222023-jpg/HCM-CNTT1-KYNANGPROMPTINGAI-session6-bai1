@@ -14,7 +14,7 @@
 2. Request: Kiểm tra dữ liệu, đánh giá Feynman và chấm Rubric cho nhân viên.
 3. Explanation:
 - Thiếu thong_tin hoặc bai_giai_thich: dừng chấm, in ra "thiếu dữ liệu", không tự bịa ra.
-- Thiếu rubric: vẫn làm Feynman, ghi "[THIẾU RUBRIC]", không chấm điểm tổng.
+- Thiếu rubric: vẫn làm Feynman, ghi "thiếu Rubric", không chấm điểm tổng.
 - bai_giai_thich ạc đề/vô nghĩa: in ra "sai thông tin", chỉ lỗi sai, không cộng điểm cho phần sai.
 4. Action: 
 - Bước 1: Kiểm tra dữ liệu
