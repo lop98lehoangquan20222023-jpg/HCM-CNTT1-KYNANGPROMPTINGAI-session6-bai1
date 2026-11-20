@@ -15,7 +15,7 @@
 3. Explanation:
 - Thiếu thong_tin hoặc bai_giai_thich: dừng chấm, in ra "thiếu dữ liệu", không tự bịa ra.
 - Thiếu rubric: vẫn làm Feynman, ghi "thiếu Rubric", không chấm điểm tổng.
-- bai_giai_thich ạc đề/vô nghĩa: in ra "sai thông tin", chỉ lỗi sai, không cộng điểm cho phần sai.
+- bai_giai_thich lạc đề/vô nghĩa: in ra "sai thông tin", chỉ lỗi sai, không cộng điểm cho phần sai.
 4. Action: 
 - Bước 1: Kiểm tra dữ liệu
 - Bước 2:Nhận xét Feynman và gợi ý cách nói đơn giản
